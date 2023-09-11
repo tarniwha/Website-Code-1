@@ -1,5 +1,7 @@
 body{
-color:lightgrey;    
+color:lightgrey;
+img src="img/cat.jpeg";
+
 }
 h1{
         font-size:320px;
